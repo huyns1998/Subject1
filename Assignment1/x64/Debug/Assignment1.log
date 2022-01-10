@@ -1,0 +1,7 @@
+﻿  common.c
+C:\Users\admin\source\repos\MyFirstProject\Assignment1\common.c(39,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\source\repos\MyFirstProject\Assignment1\common.c(170,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\source\repos\MyFirstProject\Assignment1\common.c(173,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\source\repos\MyFirstProject\Assignment1\common.c(227,8): warning C4013: 'printf' undefined; assuming extern returning int
+C:\Users\admin\source\repos\MyFirstProject\Assignment1\common.c(229,7): warning C4013: 'scanf' undefined; assuming extern returning int
+  Assignment1.vcxproj -> C:\Users\admin\source\repos\MyFirstProject\x64\Debug\Assignment1.exe
